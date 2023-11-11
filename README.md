@@ -19,7 +19,5 @@ React JS,Material UI, Javascript, HTML,CSS
 ![](/src/assets/10.png)
 ![](/src/assets/11.png)
 
-## API USED
-we used this API- https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+Project Members - Sahebjeet Singh, Jasmeet Singh, Surkhab Singh, Prabhpreet Singh
 
-Project Members - Sahebjeet Singh, Jasmeet Singh, Surkhab Singh
